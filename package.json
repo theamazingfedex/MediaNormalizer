@@ -1,0 +1,19 @@
+{
+  "name": "media-normalizer",
+  "version": "1.0.0",
+  "description": "Scrape media metadata and rename filenames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theamazingfedex/MediaNormalizer.git"
+  },
+  "author": "Daniel Wood <daniel.a.wood.jr@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/theamazingfedex/MediaNormalizer/issues"
+  },
+  "homepage": "https://github.com/theamazingfedex/MediaNormalizer#readme"
+}
